@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Hsr.CloudSolutions.SmartKitchen.Util</RootNamespace>
+    <AssemblyName>SmartKitchen.Util</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartKitchen.Devices\SmartKitchen.Devices.csproj" />
+  </ItemGroup>
+
+</Project>
